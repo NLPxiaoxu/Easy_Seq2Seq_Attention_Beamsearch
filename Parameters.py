@@ -1,7 +1,7 @@
 # -*- coding:utf-8 -*-
 class Parameters(object):
 
-    num_epochs = 9
+    num_epochs = 21
     num_layers = 2
     embedding_size = 128
     batch_size = 128
